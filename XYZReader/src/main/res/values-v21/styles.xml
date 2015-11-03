@@ -3,5 +3,6 @@
 
     <style name="Theme.Bacon.Detail" parent="Theme.Bacon">
         <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:colorPrimary">@color/orange_500</item>
     </style>
 </resources>
