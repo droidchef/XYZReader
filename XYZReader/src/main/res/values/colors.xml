@@ -23,7 +23,10 @@
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
 
+    <color name="orange_900">#BF360C</color>
+    <color name="orange_700">#E64A19</color>
     <color name="orange_500">#FF5722</color>
-
+    <color name="orange_100">#FFCCBC</color>
+    <color name="orange_50">#FBE9E7</color>
 
 </resources>

@@ -47,6 +47,7 @@ public class ArticleListActivity extends ActionBarActivity implements
         CollapsingToolbarLayout collapsingToolbarLayout = (CollapsingToolbarLayout) findViewById(R.id.collapsing_toolbar);
         collapsingToolbarLayout.setTitle("XYZ Reader");
         collapsingToolbarLayout.setExpandedTitleColor(getResources().getColor(android.R.color.white));
+        collapsingToolbarLayout.setCollapsedTitleTextColor(getResources().getColor(android.R.color.white));
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 
